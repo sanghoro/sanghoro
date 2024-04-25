@@ -2,6 +2,7 @@
 ![wp2662875-white-background](https://github.com/sanghoro/sanghoro/assets/159068651/60b17378-49e2-4947-b637-f6bb31ba9b5d)
 
 ### Hi there 👋
+__________________________________________________________________________________________________________________________
 Hello! My name is Seong, a front-end software developer passionate about creating engaging and user-friendly digital experiences. Coming from a background as a US Army veteran and having worked in both behavioral health and entertainment technology, I have a unique approach to web development. I love using HTML, CSS, and JavaScript to solve problems and build cool things!
 
 I'd love to connect and explore how we can collaborate to craft impactful digital solutions!
