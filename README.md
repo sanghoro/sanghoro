@@ -11,6 +11,7 @@ ________________________________________________________________________________
 </a>
 
 
+
 ### About myself! 👋
 __________________________________________________________________________________________________________________________
 Hello! My name is Seong, a front-end software developer passionate about creating engaging and user-friendly digital experiences. Coming from a background as a US Army veteran and having worked in both behavioral health and entertainment technology, I have a unique approach to web development. I love using HTML, CSS, and JavaScript to solve problems and build cool things!
