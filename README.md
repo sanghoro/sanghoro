@@ -1,5 +1,6 @@
-
-![wp2662875-white-background](https://github.com/sanghoro/sanghoro/assets/159068651/60b17378-49e2-4947-b637-f6bb31ba9b5d)
+<a href="https://www.instagram.com/joa.seong/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
 ### Hi there 👋
 __________________________________________________________________________________________________________________________
