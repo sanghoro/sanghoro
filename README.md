@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 
 ![Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghoro&show_icons=true&theme=radical)
-
+![Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghoro&show_icons=true&theme=transparent)
 
 
 
