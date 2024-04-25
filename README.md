@@ -10,11 +10,13 @@ ________________________________________________________________________________
 <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" style="max-width: 100%;">
 </a>
 
+
 ### About myself! 👋
 __________________________________________________________________________________________________________________________
 Hello! My name is Seong, a front-end software developer passionate about creating engaging and user-friendly digital experiences. Coming from a background as a US Army veteran and having worked in both behavioral health and entertainment technology, I have a unique approach to web development. I love using HTML, CSS, and JavaScript to solve problems and build cool things!
 
 I'd love to connect and explore how we can collaborate to craft impactful digital solutions!
+
 
 
 ### 🚀 &nbsp;Some Tools I Have Used and Learned
@@ -29,18 +31,3 @@ ________________________________________________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<!--
-**sanghoro/sanghoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
