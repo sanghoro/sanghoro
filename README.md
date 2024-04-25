@@ -29,6 +29,6 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45" />
 
 ![Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghoro&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghoro&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
