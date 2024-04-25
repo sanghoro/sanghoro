@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45" />
 
 __________________________________________________________________________________________________________________________
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sanghoro/sanghoro/blob/output/github-contribution-grid-snake.svg)
 
 
 
