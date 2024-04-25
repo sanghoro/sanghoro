@@ -25,9 +25,6 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="html" width="45" height="45"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45" />
 
-[![Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghoro)](https://github.com/sanghoro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghoro)](https://github.com/sanghoro/github-readme-stats)
-
 
 <img height="150" src="https://camo.githubusercontent.com/adbae258f0f8e65f137aa8b0c71371ad72b961cd882e17e50df5786d62f37702/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6f6a696e6b75726f" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sanghoro" style="max-width: 100%;">
 
