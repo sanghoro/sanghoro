@@ -30,5 +30,5 @@ ________________________________________________________________________________
 
 ![Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghoro&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghoro&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://camo.githubusercontent.com/c1f600c4fe47414462cb42c5389bb13912c5e0a1c19f15c05e633d74b2b319a5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612672616e6b5f69636f6e3d676974687562" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;rank_icon=github" style="max-width: 100%;">
 
