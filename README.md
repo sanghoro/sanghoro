@@ -29,8 +29,9 @@ ________________________________________________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghoro)](https://github.com/sanghoro/github-readme-stats)
 
 
+<img height="150" src="https://camo.githubusercontent.com/adbae258f0f8e65f137aa8b0c71371ad72b961cd882e17e50df5786d62f37702/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6f6a696e6b75726f" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sanghoro" style="max-width: 100%;">
 
-
+<img height="150" src="https://camo.githubusercontent.com/381824db0e1d09cadb46fd6929675337384acb347e8acd7c85afd1eddbf7a99c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6f6a696e6b75726f266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghoro&amp;layout=compact" style="max-width: 100%;">
 
 
 
