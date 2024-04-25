@@ -9,8 +9,7 @@ Hello! My name is Seong, a front-end software developer passionate about creatin
 I'd love to connect and explore how we can collaborate to craft impactful digital solutions!
 
 [![Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghoro)](https://github.com/sanghoro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghoro&layout=compact)](https://github.com/sanghoro/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghoro)](https://github.com/sanghoro/github-readme-stats)
 ### 🚀 &nbsp;Some Tools I Have Used and Learned
 __________________________________________________________________________________________________________________________
 <p align="left">
