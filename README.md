@@ -1,6 +1,7 @@
-<a href="https://www.instagram.com/joa.seong/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+![Hello!](https://github.com/sanghoro/sanghoro/assets/159068651/19ceee67-47c9-4602-8a84-0b9aedcf02be)
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="100" viewBox="0 0 854 100">
+
+        
 
 ### Hi there 👋
 __________________________________________________________________________________________________________________________
@@ -8,8 +9,6 @@ Hello! My name is Seong, a front-end software developer passionate about creatin
 
 I'd love to connect and explore how we can collaborate to craft impactful digital solutions!
 
-[![Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghoro)](https://github.com/sanghoro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghoro)](https://github.com/sanghoro/github-readme-stats)
 ### 🚀 &nbsp;Some Tools I Have Used and Learned
 __________________________________________________________________________________________________________________________
 <p align="left">
@@ -18,8 +17,14 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="html" width="45" height="45"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45" />
 
-__________________________________________________________________________________________________________________________
+[![Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghoro)](https://github.com/sanghoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghoro)](https://github.com/sanghoro/github-readme-stats)
 
+### 👯‍♂️ Social Media
+__________________________________________________________________________________________________________________________
+<a href="https://www.instagram.com/joa.seong/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
 
 <!--
